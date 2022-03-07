@@ -1,0 +1,25 @@
+*{
+    font-family: 'Quicksand', sans-serif;
+    font-size: large;
+}
+.container{
+    display: flex;
+    justify-content: space-around;
+}
+
+.image{
+    width: 200px;
+    height: 200px;
+    padding: 10px;
+} 
+
+.cake{
+    text-align: center;
+
+}
+
+.title{
+    font-size: xx-large;
+    text-align:center;
+    color: #a16619;
+}
